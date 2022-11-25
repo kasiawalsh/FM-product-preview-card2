@@ -67,7 +67,7 @@ I've used
 <source srcset="images/image-product-desktop.jpg" media="(min-width: 600px)">
 to swap the main image from desktop to mobile.
 
-I've decided to add <h1> to "Gabrielle essence eau de parfum". However, "Perfume" at the top could aslo be considered if this was part of a bigger project and Perfume was the main heading.
+I've decided to add h1 to "Gabrielle essence eau de parfum". However, "Perfume" at the top could aslo be considered if this was part of a bigger project and Perfume was the main heading.
 
 I've learnt that as easy way to put items next to each other is to wrap them in a div and use a ulility class "flex\_\_group".
 
