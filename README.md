@@ -79,7 +79,7 @@ I've also learned about locally scoped custom properties which I've used in the 
 
 With CSS styling, it's best to start with general tyles and then work on induvidual parts from top to bottom.
 
-I've learnt about the <s> tag for strikethrough and the importance of considering assistive technology. I've learnt about a visually-hidden class that can be added to CSS to hide content from view but have it in the HTML for screen readers.
+I've learnt about the s tag for strikethrough and the importance of considering assistive technology. I've learnt about a visually-hidden class that can be added to CSS to hide content from view but have it in the HTML for screen readers.
 
 I have used data attribute to add a shopping car icon to the button.
 
